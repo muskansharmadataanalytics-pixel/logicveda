@@ -6,12 +6,12 @@ This document outlines the agreed role assignments for the data pipeline, analyt
 
 | Role | Assigned  | Key Responsibilities | Status | Work Done (%)  |
 | :--- | :--- | :--- | :--- | :--- |
-| **Loader** | `Maheshwari` | Data ingestion, extraction, and raw data loading | Not Started |  |
-| **Checks** | `Muskan,Maheshwari,Aditya,Shetti.Anjana ` | Data validation, quality checks, and schema verification |  Not Started |  |
-| **Warehouse** | `Aditya` | Data modeling, dimensional tables, and warehouse architecture |  Not Started |  |
-| **Measures** | `Shetti.Anjana` | KPI definitions, calculated metrics, and business logic |  Not Started |  |
-| **Dashboard** | `Muskan` | Interactive visualizations, charts, and BI dashboard |  Not Started |  |
-| **Report** | `Muskan,Maheshwari,Aditya,Shetti.Anjana` | Final written documentation, insights summary, and presentation |  Not Started |  |
+| **Loader** | @Maheshwari` | Data ingestion, extraction, and raw data loading | Not Started |  |
+| **Checks** | `@Muskan,@Maheshwari,@Aditya,@Shetti.Anjana ` | Data validation, quality checks, and schema verification |  Not Started |  |
+| **Warehouse** | `@Aditya` | Data modeling, dimensional tables, and warehouse architecture |  Not Started |  |
+| **Measures** | `@Shetti.Anjana` | KPI definitions, calculated metrics, and business logic |  Not Started |  |
+| **Dashboard** | `@Muskan` | Interactive visualizations, charts, and BI dashboard |  Not Started |  |
+| **Report** | `@Muskan,@Maheshwari,@Aditya,@Shetti.Anjana` | Final written documentation, insights summary, and presentation |  Not Started |  |
 
 ---
 
