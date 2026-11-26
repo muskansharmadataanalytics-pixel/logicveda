@@ -4,14 +4,14 @@ This document outlines the agreed role assignments for the data pipeline, analyt
 
 ## Assigned Roles
 
-| Role | Assigned Student | Key Responsibilities | Confirmation Status | Confirmed Via |
+| Role | Assigned  | Key Responsibilities | Confirmation Status | Confirmed Via |
 | :--- | :--- | :--- | :--- | :--- |
-| **Loader** | `[Student Name 1]` | Data ingestion, extraction, and raw data loading | Confirmed | Repo README |
-| **Checks** | `[Student Name 2]` | Data validation, quality checks, and schema verification | Confirmed | Repo README |
-| **Warehouse** | `[Student Name 3]` | Data modeling, dimensional tables, and warehouse architecture | Confirmed | Repo README |
-| **Measures** | `[Student Name 4]` | KPI definitions, calculated metrics, and business logic | Confirmed | Repo README |
-| **Dashboard** | `[Student Name 5]` | Interactive visualizations, charts, and BI dashboard | Confirmed | Repo README |
-| **Report** | `[Student Name 6]` | Final written documentation, insights summary, and presentation | Confirmed | Repo README |
+| **Loader** | `Maheshwari` | Data ingestion, extraction, and raw data loading | Confirmed | Repo README |
+| **Checks** | `Muskan,Maheshwari,Aditya,Shetti.Anjana ` | Data validation, quality checks, and schema verification | Confirmed | Repo README |
+| **Warehouse** | `Aditya` | Data modeling, dimensional tables, and warehouse architecture | Confirmed | Repo README |
+| **Measures** | `Shetti.Anjana` | KPI definitions, calculated metrics, and business logic | Confirmed | Repo README |
+| **Dashboard** | `Muskan` | Interactive visualizations, charts, and BI dashboard | Confirmed | Repo README |
+| **Report** | `Muskan,Maheshwari,Aditya,Shetti.Anjana` | Final written documentation, insights summary, and presentation | Confirmed | Repo README |
 
 ---
 
